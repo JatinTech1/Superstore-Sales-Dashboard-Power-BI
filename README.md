@@ -42,3 +42,5 @@ The dashboard enables stakeholders to track trends, compare year-over-year (YoY)
 -	Improved decision-making capability by providing a single view of sales and profit performance across multiple dimensions.
 -	Strengthened skills in data analytics, visualization, and business intelligence using Power BI.
 
+## Dashboard
+<img width="1154" height="653" alt="Screenshot 2025-08-22 022329" src="https://github.com/user-attachments/assets/448b994f-ab38-4211-8c3a-ff52694917e2" />
