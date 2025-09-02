@@ -43,4 +43,4 @@ The dashboard enables stakeholders to track trends, compare year-over-year (YoY)
 -	Strengthened skills in data analytics, visualization, and business intelligence using Power BI.
 
 ## Dashboard
-<img width="1154" height="653" alt="Screenshot 2025-08-22 022329" src="https://github.com/user-attachments/assets/448b994f-ab38-4211-8c3a-ff52694917e2" />
+<img width="1339" height="754" alt="Screenshot 2025-09-03 014126" src="https://github.com/user-attachments/assets/4be085ce-afcb-4034-91a4-28e8dbc1363d" />
